@@ -1,4 +1,4 @@
-# ObstacleAssault by vvynerio
+# ObstacleAssault by VIYUKI
 <img width="1440" height="801" alt="Screenshot 2026-05-11 123816" src="https://github.com/user-attachments/assets/13eaf4b6-1a6b-48d6-89ab-8ddabc8bca3c" />
 
 ObstacleAssault is a fast-paced 3d platformer where players must overcome challenging obstacle courses, moving platforms, rotating traps, and precision based jumps to reach the finish line.
